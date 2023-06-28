@@ -1,0 +1,7 @@
+const {john,peter}= require('./names')
+const sayHi= require('./logger')
+const exportes= require('./export')
+require('./autoGenerate')
+// console.log(exportes)
+// sayHi(john)
+// sayHi(peter)
